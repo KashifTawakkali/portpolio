@@ -175,7 +175,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Flutter Developer",
     icon: mobile,
   },
   {
@@ -258,7 +258,7 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
+    title: "Flutter Developer",
     company_name: "Tesla",
     icon: tesla,
     iconBg: "#E6DEDD",
