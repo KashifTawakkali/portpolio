@@ -15,10 +15,7 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
   tesla,
-  shopify,
   carrent,
   jobit,
   tripguide,
@@ -54,7 +51,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Freelancer Job",
     icon: creator,
   },
 ];
@@ -118,7 +115,7 @@ const experiences = [
   {
     title: "React.js Developer",
     company_name: "Praman Proserv Technologies Pvt Ltd",
-    icon: starbucks,
+    icon: tesla,
     iconBg: "#383E56",
     date: "Aug 2021 - May 2024",
     points: [
@@ -144,7 +141,7 @@ const experiences = [
   {
     title: "Web Developer",
     company_name: "Praman Proserv Technologies Pvt Ltd",
-    icon: shopify,
+    icon: tesla,
     iconBg: "#383E56",
     date: "Aug 2021 - May 2024",
     points: [
@@ -157,7 +154,7 @@ const experiences = [
   {
     title: "Full stack Developer",
     company_name: "Praman Proserv Technologies Pvt Ltd",
-    icon: meta,
+    icon: tesla,
     iconBg: "#E6DEDD",
     date: "Aug 2021 - May 2024",
     points: [
