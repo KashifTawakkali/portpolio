@@ -21,6 +21,8 @@ import {
   tripguide,
   threejs,
 } from "../assets";
+import flutter from "../assets/tech/flutter.png"
+
 
 export const navLinks = [
   {
@@ -102,11 +104,11 @@ const technologies = [
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "flutter",
+    icon: flutter,
   },
   {
-    name: "docker",
+    name: "flutter",
     icon: docker,
   },
 ];
